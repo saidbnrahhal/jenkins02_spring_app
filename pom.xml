@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>sr.rahhal.dev</groupId>
-    <artifactId>jenkins01_config</artifactId>
+    <artifactId>jenkins02_spring_app</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>jenkins-demo</name>
+    <name>jenkins02_spring_app</name>
     <url>http://maven.apache.org</url>
     <description>Jenkins configuration as code demo</description>
 </project>
