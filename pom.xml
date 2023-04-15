@@ -7,7 +7,7 @@
     <name>jenkins02_spring_app</name>
     <url>http://maven.apache.org</url>
     <description>Jenkins configuration as code demo</description>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <properties>
         <java.version>11</java.version>
     </properties>
